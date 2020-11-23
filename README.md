@@ -15,6 +15,10 @@ Google Colab, GPU, Verilog, Síntese Lógica, Simulação
 
 Apresentar, de uma forma simples e rápida, o uso da ferramenta Colab no ensino de Sistemas Digitais com Verilog, Programação GPU com CUDA, Instrumentação de Código de GPU, experimentos com simuladores Valgrind e Gem5. Além do uso remoto na nuvem e gratuito, o Colab simplifica a instalação das ferramentas, uma vez que os laboratórios já estão todos pré-configurados para executar na plataforma. Os laboratórios são auto-explicativos mesclando texto, figuras, exercícios, exemplos e códigos executáveis.
 
+## Links para o Colab e Videos
+
+Pode ser acessado por esse (Link)[https://github.com/lesc-ufv/sbesc2020/tree/main/links]
+
 ## Lista de Tópicos
 
  - Introdução ao Colab;
