@@ -17,7 +17,7 @@ Apresentar, de uma forma simples e rápida, o uso da ferramenta Colab no ensino 
 
 ## Links para o Colab e Videos
 
-Pode ser acessado por esse [https://github.com/lesc-ufv/sbesc2020/tree/main/links](Link)
+Pode ser acessado por esse [Link](https://github.com/lesc-ufv/sbesc2020/tree/main/links)
 
 ## Lista de Tópicos
 
